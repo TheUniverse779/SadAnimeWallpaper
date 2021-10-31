@@ -1,0 +1,30 @@
+{
+  "category": [
+    {
+      "id": "SadAnime",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/sad_anime_girl.jpg",
+      "count": "100",
+      "ratio" : "600:863",
+      "name" : "Sad Anime Wallpaper"
+    },
+    {
+      "id": "SadAnimeGirl",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/sad_anime_boy.jpg",
+      "count": "100",
+      "ratio" : "900:563",
+      "name" : "Sad Girl Anime"
+    },
+    {
+      "id": "SadAnimeBoy",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/sad_anime_girl.jpg",
+      "count": "100",
+      "name" : "Sad Boy Anime"
+    },
+    {
+      "id": "BlackSad",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/sad_anime_girl.jpg",
+      "count": "100",
+      "name" : "Black Sad Wallpaper"
+    }
+  ]
+}
