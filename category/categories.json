@@ -2,47 +2,45 @@
   "category": [
     {
       "id": "SadAnimeWallpaper",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/sad_anime_girl.jpg",
-      "count": "100",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/sad_anime.jpg",
+      "count": "339",
       "ratio" : "600:863",
       "name" : "Sad Anime Wallpaper"
     },
     {
-      "id": "SadAnimeGirl",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/sad_anime_boy.jpg",
-      "count": "100",
-      "ratio" : "900:563",
-      "name" : "Sad Girl Anime"
-    },
-    {
-      "id": "SadAnimeBoy",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/sad_anime_girl.jpg",
-      "count": "100",
-      "name" : "Sad Boy Anime"
+      "id": "SadAnimeWallpaper2",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/sad_anime_2.jpg",
+      "count": "177",
+      "ratio" : "720:1280",
+      "name" : "Sad Anime Wallpaper (Collection 2)"
     },
     {
       "id": "QuoteBlackWallpaper",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/sad_anime_girl.jpg",
-      "count": "100",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/quote_sad.jpg",
+      "count": "307",
+      "ratio" : "720:1280",
       "name" : "Quote Black Wallpaper"
     },
     {
       "id": "BlackSadWallpaper",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/sad_anime_girl.jpg",
-      "count": "100",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/black_sad.jpg",
+      "count": "208",
+      "ratio" : "500:820",
       "name" : "Black Sad Wallpaper"
     },
     {
       "id": "SadWallpaper",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/sad_anime_girl.jpg",
-      "count": "100",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/sad.jpg",
+      "count": "742",
+      "ratio" : "1080:1618",
       "name" : "Sad Wallpaper"
     },
     {
-      "id": "SadAnimeWallpaper2",
-      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/sad_anime_girl.jpg",
-      "count": "100",
-      "name" : "Sad Anime Wallpaper (Collection 2)"
+      "id": "SadEmoijWallpaper",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/SadAnimeWallpaper/main/category/emoij_sad.jpg",
+      "count": "29",
+      "ratio" : "587:573",
+      "name" : "Sad Emoji Wallpaper"
     }
   ]
 }
